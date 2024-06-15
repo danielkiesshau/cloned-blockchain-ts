@@ -1,3 +1,7 @@
+# Note
+All credits to #Kacper-Hernacki
+I cloned the project to explore and practice the concepts built in it
+
 # Blockchain with TypeScript
 
 ## 🔗 Created to inspire developers with decentralization, by code
